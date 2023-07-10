@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "966614856030",
+    "project_id": "gesture-user-interface",
+    "storage_bucket": "gesture-user-interface.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966614856030:android:b3d8df1944e91c52f8dfcf",
+        "android_client_info": {
+          "package_name": "com.example.gesture_user_interface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966614856030-n8h65aokt5mtcl373ngdiqpl0rpbv4j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbQjcA0XjJZeMG9ssnZQrbHsrbiS53p3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966614856030-n8h65aokt5mtcl373ngdiqpl0rpbv4j7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "966614856030-eoldverc4103sfahul5lp1rmorrtdqhb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gestureUserInterface"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
