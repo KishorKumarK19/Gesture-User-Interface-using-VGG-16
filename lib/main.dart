@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter',
+      title: 'Flutter Demo',
       routes: {
         //'/': (context) => Register(),
         '/': (context) => Register(),
